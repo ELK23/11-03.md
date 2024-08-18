@@ -26,7 +26,9 @@
 
 `Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.`
 
-![image](https://github.com/user-attachments/assets/405a466c-a8a7-4ace-b0d8-6b15675603ce)
+![image](https://github.com/user-attachments/assets/dab9cdf0-97bc-429b-aea9-f7e587645e24)
+
+
 
 
 ### Задание 2
